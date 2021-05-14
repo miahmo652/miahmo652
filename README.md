@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently looking to increase my experience with front-end and back-end by doing more personal projects
 - 🔭 I'm currently trading cryptocurrencies and researching into s&p 500
-
-Current tech skills: React | Node | JavaScript | Python | HTML | CSS | Express 
-
+- ⚡Current tech skills: React | Node | JavaScript | Python | HTML | CSS | Express 
 
 - 📫 How to reach me: How to reach me: [Linkedin](https://www.linkedin.com/in/mohammadmiah652/) [outlook](miahmo652@outlook.com)
 
